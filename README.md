@@ -1,3 +1,7 @@
+Bonjour cher(e) correcteur/correctrice
+
+Ce projet a été réalisé par Nadia GSSIME (@Nadia) et Grégoria Ndongozi (@Grégoria)
+
 Small exercices in Ruby -- RSpec 3 Edition
 ==========
 
